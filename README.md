@@ -26,7 +26,7 @@ Analyze sales by product category, customer segment, and region.
 Identify trends, outliers, and patterns in sales performance over time.
 Make data-driven decisions to optimize inventory, pricing, and marketing strategies.
 
-•   Wal through a key Visuals
+•   Walk through a key Visuals
 
  KPI Cards: Show high-level metrics like Total Sales, Total Orders, Profit, and Profit Margin.   
  Sales Trend Line Chart: Displays monthly sales over time to highlight seasonality and growth.
@@ -40,7 +40,8 @@ Make data-driven decisions to optimize inventory, pricing, and marketing strateg
 The sales dashboard significantly enhanced visibility by providing leadership and teams with a real-time, centralized view of key performance metrics. This accessibility enabled faster decision-making, allowing sales teams to respond promptly to underperformance and capitalize on emerging market opportunities. By identifying high-performing products and those lagging behind, the dashboard supported an improved product strategy, informing decisions around inventory management and targeted marketing efforts. Additionally, the geographic insights uncovered regional sales trends and performance gaps, enabling the development of tailored strategies to boost sales in specific areas.
 
 ### 6. Screenshot
-https://github.com/Gineesha/Sales-Dashboard/blob/main/Snapshot%20of%20the%20dashbaord.png
+ [Dashboard Preview](https://github.com/Gineesha/Sales-Dashboard/blob/main/Snapshot%20of%20the%20dashbaord.png)
+
 
 
     
